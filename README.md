@@ -1,3 +1,3 @@
 # hello-world
 
-HI, just a try to make a commit change
+Hi there, it's a test to learn commit function.
